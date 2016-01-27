@@ -18,3 +18,6 @@ done over UDP.
 Meanwhile, at the client side, the network map in the form
 of the adjacency matrix is used to compute the optimal
 routing path by finding the Minimum Spanning Tree.
+
+References:
+	www.beej.us/guide/bgnet (Overview of Socket Programming)
